@@ -1,0 +1,32 @@
+[
+    {
+        "Category": "soltwd",
+        "Positive PNL": 0.018,
+        "Negative PNL": -3.78304,
+        "Win Count": 1,
+        "Lose Count": 5,
+        "Win Rate (%)": 0.166667,
+        "new_tp": 1.00245,
+        "new_sl": 0.992
+    },
+    {
+        "Category": "btctwd",
+        "Positive PNL": 31.7325,
+        "Negative PNL": -31.6677,
+        "Win Count": 3,
+        "Lose Count": 2,
+        "Win Rate (%)": 0.6,
+        "new_tp": 1.00245,
+        "new_sl": 0.992
+    },
+    {
+        "Category": "ethtwd",
+        "Positive PNL": 1.42782,
+        "Negative PNL": -0.67314,
+        "Win Count": 2,
+        "Lose Count": 2,
+        "Win Rate (%)": 0.5,
+        "new_tp": 1.00245,
+        "new_sl": 0.992
+    }
+]
